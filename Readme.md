@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Olesya Vegrenovskaya](https://up.htmlacademy.ru/javascript/19/user/461083).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Тимоновский](https://up.htmlacademy.ru/javascript/19/user/768125).
 
 ---
 
