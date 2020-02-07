@@ -1,11 +1,11 @@
-var CLOUD_WIDTH = 500;
-var CLOUD_HEIGHT = 200;
+var CLOUD_WIDTH = 420;
+var CLOUD_HEIGHT = 270;
 var CLOUD_X = 100;
-var CLOUD_Y = 50;
+var CLOUD_Y = 10;
 var GAP = 10;
 var FONT_GAP = 15;
 var TEXT_WIDTH = 50;
-var BAR_HEIGHT = 20;
+var BAR_HEIGHT = 150;
 var barWidth = CLOUD_WIDTH - GAP - TEXT_WIDTH - GAP;
 
 var renderCloud = function(сtx, color) {
